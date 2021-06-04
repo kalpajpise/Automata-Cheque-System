@@ -1,5 +1,9 @@
 venv/
 migrations/
+.idea/
+*.tar
+*.xlsx
+hackathon-bf39302e7ac7.json
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
